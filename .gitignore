@@ -1,0 +1,13 @@
+# Ambiente e IDE
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Modelos do MediaPipe (baixe com os comandos do README)
+*.task
+
+# Saídas locais de versões anteriores
+records/
+captures/
